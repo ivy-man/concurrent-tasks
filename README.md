@@ -8,7 +8,7 @@ This is a Node.js module available through the npm registry.
 
 ## Usage
 ```ecmascript 6
-let PromiseQueue = require('./Concurrent-tasks');
+let PromiseQueue = require('@hamed.motallebi/concurrent-tasks');
 
 let show = () => 'X';
 let delay = (seconds) => new Promise(resolve => {
