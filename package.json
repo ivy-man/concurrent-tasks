@@ -1,0 +1,18 @@
+{
+  "name": "@hamed.motallebi/concurrent-tasks",
+  "version": "1.0.0",
+  "description": "Make a task queue to run specified number of tasks concurrently at the same time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise",
+    "queue",
+    "task",
+    "queue",
+    "concurrently"
+  ],
+  "author": "Hamed Motallebi",
+  "license": "ISC"
+}
