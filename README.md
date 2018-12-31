@@ -36,3 +36,5 @@ let tasks = [
 let delayQueue = new PromiseQueue(tasks, 2, show);
 delayQueue.run();
 ```
+
+See the package <a href="https://github.com/ivy-man/concurrent-tasks">source</a> for more details.
